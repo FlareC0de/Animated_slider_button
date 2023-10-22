@@ -68,7 +68,7 @@ body{
     right: 15px;
     padding: 5px;
     cursor: pointer;
-    opacity: 0.7;
+    opacity: 0.6;
 }
 .toast .close:hover{
     opacity: 1;
